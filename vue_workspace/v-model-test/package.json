@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-component-test",
+  "name": "v-model-test",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,10 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "bootstrap": "^5.3.1",
-    "p-min-delay": "^4.0.2",
-    "vue": "^3.3.4",
-    "vue-csspin": "^0.1.12"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
