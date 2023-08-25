@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "password": "1",
+      "name": "홍길동",
+      "job": "개발자",
+      "email": "hong@example.com"
+    },
+    {
+      "id": "user2",
+      "password": "2",
+      "name": "김영희",
+      "job": "디자이너",
+      "email": "kim@example.com"
+    },
+    {
+      "id": "user3",
+      "password": "3",
+      "name": "이철수",
+      "job": "마케터",
+      "email": "lee@example.com"
+    },
+    {
+      "id": "user4",
+      "password": "4",
+      "name": "박민지",
+      "job": "작가",
+      "email": "park@example.com"
+    },
+    {
+      "id": "user5",
+      "password": "5",
+      "name": "송준호",
+      "job": "엔지니어",
+      "email": "song@example.com"
+    },
+    {
+      "id": "user6",
+      "password": "6",
+      "name": "정지원",
+      "job": "교사",
+      "email": "jung@example.com"
+    },
+    {
+      "id": "user7",
+      "password": "7",
+      "name": "이민수",
+      "job": "의사",
+      "email": "lee.min@example.com"
+    },
+    {
+      "id": "user8",
+      "password": "8",
+      "name": "김미영",
+      "job": "회계사",
+      "email": "kim.mi@example.com"
+    },
+    {
+      "id": "user9",
+      "password": "9",
+      "name": "박준서",
+      "job": "연구원",
+      "email": "park.jun@example.com"
+    },
+    {
+      "id": "user10",
+      "password": "10",
+      "name": "장현우",
+      "job": "기자",
+      "email": "jang@example.com"
+    }
+  ]

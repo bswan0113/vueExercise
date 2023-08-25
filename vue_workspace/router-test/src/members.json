@@ -1,0 +1,104 @@
+
+    [
+        {
+            "id": 1,
+            "name": "영규씨",
+            "role": "베이스",
+            "photo": "영규사진URL",
+            "desc": "저희 밴드의 멋진 베이스 기타리스트입니다.",
+            "insta": "https://www.instagram.com/영규인스타",
+            "facebook": "https://www.facebook.com/영규페북",
+            "youtube": "https://www.youtube.com/영규유튜브"
+        },
+        {
+            "id": 2,
+            "name": "예린씨",
+            "role": "보컬",
+            "photo": "예린사진URL",
+            "desc": "우리 밴드의 맑은 목소리를 가진 보컬입니다.",
+            "insta": "https://www.instagram.com/예린인스타",
+            "facebook": "https://www.facebook.com/예린페북",
+            "youtube": "https://www.youtube.com/예린유튜브"
+        },
+        {
+            "id": 3,
+            "name": "지호씨",
+            "role": "기타",
+            "photo": "지호사진URL",
+            "desc": "기타 솔로로 화려한 연주를 선보이는 멤버입니다.",
+            "insta": "https://www.instagram.com/지호인스타",
+            "facebook": "https://www.facebook.com/지호페북",
+            "youtube": "https://www.youtube.com/지호유튜브"
+        },
+        {
+            "id": 4,
+            "name": "은서씨",
+            "role": "보컬",
+            "photo": "은서사진URL",
+            "desc": "따뜻한 음색의 보컬로 밴드의 매력을 더해주는 멤버입니다.",
+            "insta": "https://www.instagram.com/은서인스타",
+            "facebook": "https://www.facebook.com/은서페북",
+            "youtube": "https://www.youtube.com/은서유튜브"
+        },
+        {
+            "id": 5,
+            "name": "재은씨",
+            "role": "드럼",
+            "photo": "재은사진URL",
+            "desc": "파워풀한 드럼 연주로 밴드의 리듬을 주도하는 멤버입니다.",
+            "insta": "https://www.instagram.com/재은인스타",
+            "facebook": "https://www.facebook.com/재은페북",
+            "youtube": "https://www.youtube.com/재은유튜브"
+        },
+        {
+            "id": 6,
+            "name": "성진씨",
+            "role": "보컬",
+            "photo": "성진사진URL",
+            "desc": "감성적인 보컬로 노래에 감동을 전하는 멤버입니다.",
+            "insta": "https://www.instagram.com/성진인스타",
+            "facebook": "https://www.facebook.com/성진페북",
+            "youtube": "https://www.youtube.com/성진유튜브"
+        },
+        {
+            "id": 7,
+            "name": "민지씨",
+            "role": "키보드",
+            "photo": "민지사진URL",
+            "desc": "다양한 키보드 연주로 밴드의 음악을 더욱 풍성하게 만드는 멤버입니다.",
+            "insta": "https://www.instagram.com/민지인스타",
+            "facebook": "https://www.facebook.com/민지페북",
+            "youtube": "https://www.youtube.com/민지유튜브"
+        },
+        {
+            "id": 8,
+            "name": "혜림씨",
+            "role": "보컬",
+            "photo": "혜림사진URL",
+            "desc": "강렬한 보컬로 무대 위의 화려한 매력을 선보이는 멤버입니다.",
+            "insta": "https://www.instagram.com/혜림인스타",
+            "facebook": "https://www.facebook.com/혜림페북",
+            "youtube": "https://www.youtube.com/혜림유튜브"
+        },
+        {
+            "id": 9,
+            "name": "민규씨",
+            "role": "기타",
+            "photo": "민규사진URL",
+            "desc": "감성적인 기타 연주로 밴드의 곡에 깊은 감동을 불어넣는 멤버입니다.",
+            "insta": "https://www.instagram.com/민규인스타",
+            "facebook": "https://www.facebook.com/민규페북",
+            "youtube": "https://www.youtube.com/민규유튜브"
+        },
+        {
+            "id": 10,
+            "name": "재훈씨",
+            "role": "보컬",
+            "photo": "재훈사진URL",
+            "desc": "다재다능한 보컬로 다양한 스타일의 노래를 소화하는 멤버입니다.",
+            "insta": "https://www.instagram.com/재훈인스타",
+            "facebook": "https://www.facebook.com/재훈페북",
+            "youtube": "https://www.youtube.com/재훈유튜브"
+        }
+    ]
+    

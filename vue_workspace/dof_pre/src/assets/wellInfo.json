@@ -1,0 +1,63 @@
+[
+    {
+      "no": 1,
+      "production": 100,
+      "lastVisitDate": "2023-08-20",
+      "isChecked": true
+    },
+    {
+      "no": 2,
+      "production": 75,
+      "lastVisitDate": "2023-08-19",
+      "isChecked": false
+    },
+    {
+      "no": 3,
+      "production": 50,
+      "lastVisitDate": "2023-08-18",
+      "isChecked": true
+    },
+    {
+      "no": 4,
+      "production": 200,
+      "lastVisitDate": "2023-08-17",
+      "isChecked": false
+    },
+    {
+      "no": 5,
+      "production": 150,
+      "lastVisitDate": "2023-08-16",
+      "isChecked": true
+    },
+    {
+      "no": 6,
+      "production": 90,
+      "lastVisitDate": "2023-08-15",
+      "isChecked": false
+    },
+    {
+      "no": 7,
+      "production": 110,
+      "lastVisitDate": "2023-08-14",
+      "isChecked": true
+    },
+    {
+      "no": 8,
+      "production": 30,
+      "lastVisitDate": "2023-08-13",
+      "isChecked": false
+    },
+    {
+      "no": 9,
+      "production": 180,
+      "lastVisitDate": "2023-08-12",
+      "isChecked": true
+    },
+    {
+      "no": 10,
+      "production": 60,
+      "lastVisitDate": "2023-08-11",
+      "isChecked": false
+    }
+  ]
+  
